@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Single Activity App</string>
+    <string name="google_details">Google began as an online search firm, but it now offers more than 50 Internet services and products, from e-mail and online document creation to software for mobile phones and tablet computers. In addition, its 2012 acquisition of Motorola Mobility put the company in the position to sell hardware in the form of mobile phones.</string>
+    <string name="google_address">Amphitheatre Parkway, Mountain View, USA</string>
+    <string name="X"><u>google.com</u>></string>
+</resources>
